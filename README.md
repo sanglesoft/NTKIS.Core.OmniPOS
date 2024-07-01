@@ -1,0 +1,1 @@
+# NTKIS.Core.OmniPOS
